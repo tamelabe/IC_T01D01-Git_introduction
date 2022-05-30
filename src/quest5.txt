@@ -1,0 +1,4 @@
+vim door_1.conf
+cd .. 
+cd ..
+vim quest5.txt
